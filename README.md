@@ -1,0 +1,1 @@
+/* This is a Rust text editor written in the rust programming language */
